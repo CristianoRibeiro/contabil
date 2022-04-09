@@ -26,7 +26,7 @@
     "core-js": "^2.5.4",
     "currency-formatter": "^1.5.5",
     "jquery": "^3.5.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "primeicons": "^4.0.0-rc.2",
     "primeng": "^9.1.0",
     "rxjs": "~6.3.3",
